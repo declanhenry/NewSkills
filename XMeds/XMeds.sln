@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMeds", "XMeds\XMeds.csproj", "{461024DA-5A1D-41F6-8D2A-01391705B01C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMeds.Tests", "XMeds.Tests\XMeds.Tests.csproj", "{EDF50B82-A398-4A3A-8CE9-89D95E43B2D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{461024DA-5A1D-41F6-8D2A-01391705B01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{461024DA-5A1D-41F6-8D2A-01391705B01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{461024DA-5A1D-41F6-8D2A-01391705B01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF50B82-A398-4A3A-8CE9-89D95E43B2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF50B82-A398-4A3A-8CE9-89D95E43B2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF50B82-A398-4A3A-8CE9-89D95E43B2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF50B82-A398-4A3A-8CE9-89D95E43B2D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
